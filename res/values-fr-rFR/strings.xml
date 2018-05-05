@@ -341,12 +341,14 @@
   <string name="home_action_nothing">Rien</string>
   <string-array name="home_action_values">
     <item>rien</item>
-    <item>quicksearch</item>
-    <item>voicesearch</item>
+    <item>cherche rapide</item>
+    <item>recherche vocale</item>
     <item>appdrawer</item>
     <item>appsearch</item>
     <item>overview</item>
   </string-array>
   <!--search provider-->
+  <string name="icon_pack_apply_warning_title">Attention</string>
   <!--Time format-->
+  <string name="time_formats">Format des heures</string>
 </resources>
