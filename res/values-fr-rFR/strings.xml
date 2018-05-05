@@ -331,8 +331,22 @@
   <!-- Hide/Show search bars -->
   <!--Double tap to lock-->
   <!-- Colors -->
+  <string name="White">Blanc</string>
+  <string name="Black">Noir</string>
+  <string name="Blue_gray1">Bleu gris léger</string>
+  <string name="Brown1">Brun léger</string>
+  <string name="Brown2">Brun foncé</string>
   <!--Animations-->
   <!--AllappsGrid-->
+  <string name="home_action_nothing">Rien</string>
+  <string-array name="home_action_values">
+    <item>rien</item>
+    <item>quicksearch</item>
+    <item>voicesearch</item>
+    <item>appdrawer</item>
+    <item>appsearch</item>
+    <item>overview</item>
+  </string-array>
   <!--search provider-->
   <!--Time format-->
 </resources>
