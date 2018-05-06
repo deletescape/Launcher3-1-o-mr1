@@ -275,7 +275,10 @@
   <string name="icon_edit">編輯應用程式圖示及標籤</string>
   <string name="market">更多</string>
   <string name="based_on_sum">Amir Zaidi 的「Rootless Pixel Launcher」</string>
+  <string name="diabledgemargin">停用兩側填充</string>
+  <string name="diabledgemargin_sum">停用圖示左右側的空格</string>
   <!-- Dock bar -->
+  <string name="force_mic">強制顯示語音搜尋</string>
   <!-- Sizes -->
   <!-- Rows and Coloumns -->
   <!-- Hide labels -->
