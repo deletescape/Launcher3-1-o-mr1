@@ -306,6 +306,7 @@
   <string name="hotseat_show_page_indicator">Indicateur de page</string>
   <string name="gradient_size">Taille du dégradé</string>
   <!-- Hide labels -->
+  <string name="drawer_show_labels">Tiroir / Libellés</string>
   <!--At glance-->
   <string name="custom_glance">En bref</string>
   <string name="smartspace_time">Ajouter une horloge</string>
@@ -328,8 +329,15 @@
   <!--Notification dot-->
   <!--<string name="custom_label_color">Custom lable color</string>-->
   <!--Home screen-->
+  <string name="settings_edit_allow_summary_off">Les icones et widgets ne peuvent pas être ajoutés, suppromés ou bougés sur l\'écran d\'accueil</string>
   <!-- Hide/Show search bars -->
+  <string name="bottom_search_bar_title">Barre Google du dock</string>
+  <string name="bottom_search_bar_summary">Afficher la barre de recherche Google en bas du dock</string>
   <!--Double tap to lock-->
+  <string name="double_tap_to_lock_title">Double tap pout vérouiller</string>
+  <string name="double_tap_to_lock_summary">Sur votre écran d\'accueil</string>
+  <string name="double_tap_to_lock_hint">Pour pouvoir utiliser le double tap pour vérouiller, vous devez autoriser le droit d\'administration à Ruthless Launcher. C\'est un vérouillage sécurisé, cela veut dire que vous devrez entrer votre PIN, si vous en avez un, au prochain déverouillage.</string>
+  <string name="double_tap_to_lock_disable_warning">En désactivant le droit d\'administration, vous ne pourrez plus utiliser le double tap pour vérouiller votre écran d\'accueil.</string>
   <!-- Colors -->
   <string name="White">Blanc</string>
   <string name="Black">Noir</string>
