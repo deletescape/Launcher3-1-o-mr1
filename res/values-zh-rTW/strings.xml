@@ -291,7 +291,12 @@
   <string name="size_big">稍大</string>
   <string name="size_smallest">最小</string>
   <string name="size_small">稍小</string>
+  <string name="size_stock">默認</string>
+  <string name="size_tiny">極小</string>
   <!-- Rows and Coloumns -->
+  <string name="num_rows">行數</string>
+  <string name="num_cols">列數</string>
+  <string name="num_hotseat_icons_pref_title">Dock欄上的圖標數量</string>
   <!-- Hide labels -->
   <!--At glance-->
   <!-- Date formats -->
