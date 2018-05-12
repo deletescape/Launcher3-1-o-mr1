@@ -282,7 +282,9 @@
   <string name="diabledgemargin_sum">停用圖示左右側的空格</string>
   <!-- Dock bar -->
   <string name="force_mic">強制顯示語音搜尋</string>
+  <string name="force_colour_logo">搜尋欄中顯示彩色的Google圖示</string>
   <string name="dark_themeqsb">暗色搜尋列</string>
+  <string name="transparentqsb">透明的搜尋欄</string>
   <string name="custom_qsb_in_dock">搜索欄設置</string>
   <string name="qsb_in_dock_show">在Dock欄中顯示搜索欄</string>
   <string name="pdock">流線型Dock欄</string>
@@ -300,7 +302,11 @@
   <string name="custom_grid_size">改變圖標形狀</string>
   <string name="change_grid_size">抽屜形狀</string>
   <string name="hotseatShowArrow">滑動箭頭</string>
+  <string name="hotseatShowArrow_sum">啟用/停用 dock上方的箭頭符號</string>
+  <string name="hotseat_show_page_indicator">頁面指示</string>
   <!-- Hide labels -->
+  <string name="desktop_show_labels">桌面文字</string>
+  <string name="desktop_show_labels_sum">在桌面上顯示圖示標籤</string>
   <!--At glance-->
   <!-- Date formats -->
   <!--theme-->
