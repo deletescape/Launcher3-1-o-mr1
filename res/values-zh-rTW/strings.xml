@@ -297,15 +297,33 @@
   <string name="num_rows">行數</string>
   <string name="num_cols">列數</string>
   <string name="num_hotseat_icons_pref_title">Dock欄上的圖標數量</string>
+  <string name="custom_grid_size">改變圖標形狀</string>
+  <string name="change_grid_size">抽屜形狀</string>
+  <string name="hotseatShowArrow">滑動箭頭</string>
   <!-- Hide labels -->
   <!--At glance-->
   <!-- Date formats -->
   <!--theme-->
+  <string name="white_theme">白色</string>
   <!--Notification dot-->
   <!--<string name="custom_label_color">Custom lable color</string>-->
+  <string name="custom_qsb_color_list">搜索欄顏色列表</string>
+  <string name="dark_themeqsballapp">深色搜索欄</string>
+  <string name="behavior_pref_title">行為</string>
+  <string name="custom_dockbar">Dock欄</string>
   <!--Home screen-->
+  <string name="custom_hs">主屏幕</string>
+  <string name="custom_allapp">應用抽屜</string>
+  <string name="settings_edit_allow_title">允許編輯</string>
+  <string name="settings_edit_allow_summary_on">圖標和小工具可以被添加，移除或被移動到主屏幕</string>
+  <string name="settings_edit_allow_summary_off">圖標和小工具無法被添加，移除或被移動到主屏幕</string>
+  <string name="settings_edit_widgets_error">無法將小工具新增至主屏幕</string>
   <!-- Hide/Show search bars -->
+  <string name="bottom_search_bar_title">Google Dock欄</string>
+  <string name="bottom_search_bar_summary">在Dock欄底部顯示Google搜索欄</string>
   <!--Double tap to lock-->
+  <string name="double_tap_to_lock_title">雙擊鎖屏</string>
+  <string name="double_tap_to_lock_summary">在主屏幕上</string>
   <!-- Colors -->
   <!--Animations-->
   <!--AllappsGrid-->
