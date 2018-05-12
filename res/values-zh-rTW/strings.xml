@@ -307,6 +307,7 @@
   <!-- Hide labels -->
   <string name="desktop_show_labels">桌面文字</string>
   <string name="desktop_show_labels_sum">在桌面上顯示圖示標籤</string>
+  <string name="drawer_show_labels">抽屜圖示標籤</string>
   <!--At glance-->
   <!-- Date formats -->
   <!--theme-->
