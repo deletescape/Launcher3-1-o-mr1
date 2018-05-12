@@ -283,7 +283,14 @@
   <!-- Dock bar -->
   <string name="force_mic">強制顯示語音搜尋</string>
   <string name="dark_themeqsb">暗色搜尋列</string>
+  <string name="custom_qsb_in_dock">搜索欄設置</string>
+  <string name="qsb_in_dock_show">在Dock欄中顯示搜索欄</string>
+  <string name="pdock">流線型Dock欄</string>
   <!-- Sizes -->
+  <string name="size_biggest">最大</string>
+  <string name="size_big">稍大</string>
+  <string name="size_smallest">最小</string>
+  <string name="size_small">稍小</string>
   <!-- Rows and Coloumns -->
   <!-- Hide labels -->
   <!--At glance-->
