@@ -253,6 +253,7 @@
   <string name="smartspace_preferences">偏好設定</string>
   <string name="label_search">搜尋</string>
   <string name="label_voice_search">語音搜尋</string>
+  <string name="default_live_wallpaper">com.breel.wallpapers/com.breel.wallpapers.dioramas.lagos.LagosWallpaperService</string>
   <string name="pref_icon_pack">圖示套件</string>
   <string name="state_loading">套用中…</string>
   <string name="smartspace_preferences_in_settings">快速查看</string>
@@ -260,6 +261,7 @@
   <string name="title_show_google_app">顯示「%1$s」</string>
   <string name="msg_minus_one_on_left">位於主螢幕左側</string>
   <string name="about">關於</string>
+  <string name="title_google_app">Google 應用程式</string>
   <string name="title_app_suggestions">顯示應用程式建議</string>
   <string name="summary_app_suggestions">位於「所有應用程式」清單頂端</string>
   <string name="about_app_version">版本</string>
@@ -274,11 +276,13 @@
   <string name="icon_pack_default">預設</string>
   <string name="icon_edit">編輯應用程式圖示及標籤</string>
   <string name="market">更多</string>
+  <string name="based_on">基於</string>
   <string name="based_on_sum">Amir Zaidi 的「Rootless Pixel Launcher」</string>
-  <string name="diabledgemargin">停用兩側填充</string>
+  <string name="diabledgemargin">停用兩側內距</string>
   <string name="diabledgemargin_sum">停用圖示左右側的空格</string>
   <!-- Dock bar -->
   <string name="force_mic">強制顯示語音搜尋</string>
+  <string name="dark_themeqsb">暗色搜尋列</string>
   <!-- Sizes -->
   <!-- Rows and Coloumns -->
   <!-- Hide labels -->
