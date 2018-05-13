@@ -116,7 +116,7 @@
   <!-- The format string for when a folder is opened, speaks the dimensions -->
   <string name="folder_opened">Папка открыта, <xliff:g id="WIDTH">%1$d</xliff:g> x <xliff:g id="HEIGHT">%2$d</xliff:g></string>
   <!-- Instruction that clicking outside will close folder -->
-  <string name="folder_tap_to_close">Тапните, для закрытия папки</string>
+  <string name="folder_tap_to_close">Нажмите, чтобы закрыть папку</string>
   <!-- Instruction that clicking outside will commit folder rename -->
   <string name="folder_tap_to_rename">Нажмите, чтобы подтвердить переименование</string>
   <!-- Indication that folder closed -->
