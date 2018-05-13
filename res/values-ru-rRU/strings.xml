@@ -306,6 +306,7 @@
   <string name="num_cols">Количество столбцов</string>
   <string name="num_hotseat_icons_pref_title">Количество значков в нижней панели</string>
   <string name="custom_grid_size">Изменить сетку</string>
+  <string name="change_grid_size">Размер сетки</string>
   <string name="hotseatShowArrow">Стрелка вверх</string>
   <string name="hotseatShowArrow_sum">Включить/Выключить стрелку вверх над нижней панелью</string>
   <string name="hotseat_show_page_indicator">Индикатор страницы</string>
