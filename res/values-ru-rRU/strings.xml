@@ -116,7 +116,7 @@
   <!-- The format string for when a folder is opened, speaks the dimensions -->
   <string name="folder_opened">Папка открыта, <xliff:g id="WIDTH">%1$d</xliff:g> x <xliff:g id="HEIGHT">%2$d</xliff:g></string>
   <!-- Instruction that clicking outside will close folder -->
-  <string name="folder_tap_to_close">Нажмите, чтобы закрыть папку</string>
+  <string name="folder_tap_to_close">Тапните, для закрытия папки</string>
   <!-- Instruction that clicking outside will commit folder rename -->
   <string name="folder_tap_to_rename">Нажмите, чтобы подтвердить переименование</string>
   <!-- Indication that folder closed -->
@@ -391,8 +391,28 @@
   <string name="Amber2">Темно-янтарный</string>
   <string name="Yellow1">Жёлтый свет</string>
   <string name="Yellow2">Темно-жёлтый</string>
+  <string name="Lime1">Лаймовый свет</string>
+  <string name="Lime2">Темно-лаймовый</string>
+  <string name="Light_green1">Светло-зелёный (свет)</string>
+  <string name="Light_green2">Светло-зелёный (темный)</string>
+  <string name="Green1">Светло-зелёный</string>
+  <string name="Green2">Темно-зелёный</string>
+  <string name="Teal1">Светло-бирюзовый</string>
+  <string name="Teal2">Темно-бирюзовый</string>
+  <string name="Cyan1">Светло-сине-зелёный (Cyan)</string>
+  <string name="Cyan2">Темно-сине-зеленый (Cyan)</string>
+  <string name="Light_blue1">Светло-синий</string>
+  <string name="Light_blue2">Темно-синий</string>
   <string name="Blue1">Синий свет</string>
   <string name="Blue2">Второй синий</string>
+  <string name="Indigo1">Светлый Индиго</string>
+  <string name="Indigo2">Темный Индиго</string>
+  <string name="Violet">Фиолетовый</string>
+  <string name="Deep_purple1">Глубокий светло-пурпурный</string>
+  <string name="Deep_purple2">Глубокий темно-пурпурный</string>
+  <string name="Purple1">Светло-пурпурный</string>
+  <string name="Purple2">Темно-пурпурный</string>
+  <string name="Pink1">Светло-розовый</string>
   <string name="Pink2">Темно-розовая</string>
   <string name="Red1">Светло-красная</string>
   <string name="Red2">Темно-красная</string>
@@ -406,6 +426,7 @@
   <string name="home_action_voice_search">Голосовой поиск</string>
   <string name="home_action_app_drawer">Открыть меню</string>
   <string name="home_action_app_search">Поиск приложения</string>
+  <string name="home_action_overview">Обзор</string>
   <string-array name="home_action_values">
     <item>Ничего</item>
     <item>быстрый поиск</item>
@@ -421,10 +442,12 @@
   <string name="search_provider_duckduckgo">DuckDuckGo</string>
   <string name="search_provider_baidu">Baidu</string>
   <string name="transparent_nav_bar_title">Прозрачная панель навигации</string>
+  <string name="transparent_nav_bar_summary">Открыть меню приложений</string>
   <string name="smartspace_launchclock_sum">При долгом нажатии</string>
   <string name="smartspace_launchclock">Запустить часы</string>
   <string name="system_font_for_smartspace">Использовать шрифт системы</string>
   <string name="system_font_for_smartspace_sum">В виджете \"Быстрый просмотр\"</string>
+  <string name="bage_size">Размер значков</string>
   <string name="smartspace_font">Шрифт виджета \"Быстрый просмотр\"</string>
   <string name="donate">Для пожертвований</string>
   <string name="donate_sum">Ссылка для пожертвований на Patpal (по желанию)</string>
@@ -439,6 +462,7 @@
   <string name="time_f1">12:00 AM</string>
   <string name="time_f2">24:00</string>
   <string name="other_settings">Другие настройки</string>
+  <string name="space_in_dock">Иконки в док-баре</string>
   <string name="allow_two_line_labels_summary">Обрезать длинные имена приложений или папок </string>
   <string name="faq">Часто Задаваемые Вопросы</string>
   <string name="hide_apps_title">Скрыть приложения</string>
