@@ -290,8 +290,10 @@
   <string name="force_colour_logo_sum">Иконка Google и микрофона цветные на нижней панели</string>
   <string name="dark_themeqsb">Темная строка поиска</string>
   <string name="transparentqsb">Прозрачность строки поиска</string>
+  <string name="transparentqsb_sum">Сделать Поисковую строку маленьким</string>
   <string name="custom_qsb_in_dock">Настройки строки посика</string>
   <string name="qsb_in_dock_show">Строка поиска в нижней панели</string>
+  <string name="pdock">Сплошной цвет в доке</string>
   <!-- Sizes -->
   <string name="size_biggest">Крупнейший</string>
   <string name="size_big">Крупный</string>
