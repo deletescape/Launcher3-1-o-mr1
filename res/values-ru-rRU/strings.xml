@@ -383,6 +383,14 @@
   <string name="Gray2">Темно-серый</string>
   <string name="Brown1">Светло-коричневый</string>
   <string name="Brown2">Темно-коричневый</string>
+  <string name="Deep_orange1">Глубокий оранжевый свет</string>
+  <string name="Deep_orange2">Глубокий темно-оранжевый</string>
+  <string name="Orange1">Оранжевый свет</string>
+  <string name="Orange2">Темно-оранжевый</string>
+  <string name="Amber1">Янтарный свет</string>
+  <string name="Amber2">Темно-янтарный</string>
+  <string name="Yellow1">Жёлтый свет</string>
+  <string name="Yellow2">Темно-жёлтый</string>
   <string name="Blue1">Синий свет</string>
   <string name="Blue2">Второй синий</string>
   <string name="Pink2">Темно-розовая</string>
