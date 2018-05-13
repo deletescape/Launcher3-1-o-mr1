@@ -315,7 +315,9 @@
   <string name="remove_gradient">Вид градиента</string>
   <string name="remove_gradient_sum">Включить/Выключить градиент в зоне нижней панели для прозрачной панели даже при белой теме, не работает в P-style</string>
   <!-- Hide labels -->
+  <string name="desktop_show_labels">Обои</string>
   <string name="desktop_show_labels_sum">Отображать подписи значков на рабочем столе</string>
+  <string name="drawer_show_labels_sum">Отображать подписи приложений в меню приложений</string>
   <string name="folder_show_labels">Имена папок</string>
   <string name="folder_show_labels_sum">Отображать подписи значков в папке</string>
   <string name="icon_size">Размер иконки</string>
@@ -332,19 +334,23 @@
   <string name="date_format_5">13 Вторник</string>
   <string name="date_format_6">Вторник, Февраль 13</string>
   <!--theme-->
+  <string name="custom_theme">Тема для иконок</string>
   <string name="theme">Тема</string>
   <string name="white_theme">Светлая</string>
   <string name="white_withdarktext_theme">Белая с темный текстом</string>
   <string name="dark_theme">Тёмная</string>
   <string name="black_theme">Черная</string>
+  <string name="solid_theme">Сплошная</string>
   <string name="transparent_theme">Прозрачная</string>
   <string name="auto_theme_sum">По обоям</string>
   <string name="auto_theme">Автоматически</string>
   <string name="googleinappmenu">Строка поиска Google</string>
+  <string name="g_bar_drawer">Поисковая строка Google в меню приложений</string>
   <!--Notification dot-->
   <string name="textinbadge">Номерные значки</string>
   <string name="textinbadge_sum">Показать количество уведомлений в значке</string>
   <string name="bottombadge">Нижние значки </string>
+  <string name="bottombadge_sum">Показывать индикатор приложения на правом верхнем углу</string>
   <string name="restart">Перезапустить</string>
   <string name="restart_sum">Перезапуск для отладки</string>
   <!--<string name="custom_label_color">Custom lable color</string>-->
@@ -361,7 +367,13 @@
   <string name="settings_edit_allow_summary_off">Иконки и виджеты не могут быть добавлены, удалены и перемещены на главный экран</string>
   <string name="settings_edit_widgets_error">Невозможно добавить виджеты на главный экран</string>
   <!-- Hide/Show search bars -->
+  <string name="bottom_search_bar_title">Строка Google</string>
+  <string name="bottom_search_bar_summary">Строка Google поиска в док-баре</string>
   <!--Double tap to lock-->
+  <string name="double_tap_to_lock_title">Двойное нажатие для блокировки</string>
+  <string name="double_tap_to_lock_summary">На главном экране</string>
+  <string name="double_tap_to_lock_hint">Для использования функции \"Двойное нажатие для блокировки\" нужно дать права администратора этому приложению. При последующей разблокировки условиям придется ввести PIN-код, если он установлен.</string>
+  <string name="double_tap_to_lock_disable_warning">Отключив права администратора, вы не сможете использовать эту функцию.</string>
   <!-- Colors -->
   <string name="White">Белый</string>
   <string name="Black">Чёрный</string>
