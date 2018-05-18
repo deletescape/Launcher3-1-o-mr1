@@ -307,7 +307,12 @@
   <string name="num_hotseat_icons_pref_title">Numero di icone nella dock</string>
   <string name="custom_grid_size">Cambia griglia</string>
   <string name="change_grid_size">Griglia del drawer</string>
+  <string name="change_grid_size_sum">Cambia la dimensione della griglia nell\'app drawer, la riga della griglia può sembrare una cifra in più, in realtà perché conta \"Visualizza i suggerimenti delle app\" attivata per impostazione predefinita </string>
+  <string name="hotseatShowArrow">Swipe freccia</string>
+  <string name="hotseatShowArrow_sum">Abilita/disabilita l\'indicatore della freccia verso l\'alto sopra la dock</string>
   <string name="hotseat_show_page_indicator">Indicatore Pagina</string>
+  <string name="hotseat_show_page_indicator_sum">Abilita/disabilita l\'indicatore di pagina sulla schermata principale sopra la dock </string>
+  <string name="remove_gradient_sum">Abilita/Disabilita il gradiente nell\'area del dock per il dock trasparente anche in tema bianco, non funzionerà con il dock in stile P</string>
   <!-- Hide labels -->
   <string name="desktop_show_labels">Etichette Desktop</string>
   <string name="desktop_show_labels_sum">Mostra le etichette delle icone nel desktop</string>
@@ -317,6 +322,7 @@
   <string name="folder_show_labels_sum">Mostra etichette delle icone nelle cartelle</string>
   <string name="icon_size">Dimensione icona</string>
   <!--At glance-->
+  <string name="smartspace_time">Aggiungi orario</string>
   <string name="in_smartspace">Nel widget \"At a glance\"</string>
   <!-- Date formats -->
   <string name="date_format">Formato della data</string>
@@ -324,16 +330,85 @@
   <string name="date_format_2">Martedì</string>
   <string name="date_format_3">Mar, Febbraio 13</string>
   <!--theme-->
+  <string name="custom_theme">Trattamento di temi e icone</string>
   <string name="theme">Tema</string>
   <string name="white_theme">Bianco</string>
+  <string name="white_withdarktext_theme">Bianco con testo scuro</string>
+  <string name="dark_theme">Scuro</string>
+  <string name="black_theme">Nero</string>
+  <string name="transparent_theme">Trasparente</string>
+  <string name="auto_theme_sum">Da sfondo</string>
+  <string name="auto_theme">Tema automatico</string>
+  <string name="googleinappmenu">Barra di Ricerca Google</string>
+  <string name="g_bar_drawer">Barra di ricerca Google nel drawer</string>
   <!--Notification dot-->
+  <string name="textinbadge">Badge numerici</string>
+  <string name="textinbadge_sum">Mostra il numero di notifiche nel badge</string>
+  <string name="bottombadge">Badge inferiori </string>
+  <string name="bottombadge_sum">Mostra badge in basso a destra dell\'icona</string>
+  <string name="restart">Riavvia</string>
+  <string name="restart_sum">Riavvia per debug</string>
   <!--<string name="custom_label_color">Custom lable color</string>-->
+  <string name="custom_qsb_color">Colore della barra di ricerca personalizzato</string>
+  <string name="custom_qsb_color_list">Lista colori della G-Bar</string>
+  <string name="dark_themeqsballapp">Barra di ricerca scura</string>
+  <string name="behavior_pref_title">Gesti e funzionalità</string>
   <!--Home screen-->
+  <string name="custom_hs">Schermata Home</string>
+  <string name="settings_edit_allow_title">Consenti modifiche</string>
+  <string name="settings_edit_allow_summary_on">É possibile aggiungere, rimuovere e spostare icone e widget nella schermata home</string>
+  <string name="settings_edit_allow_summary_off">Non é possibile aggiungere, rimuovere e spostare icone e widget nella schermata home</string>
+  <string name="settings_edit_widgets_error">Non é possibile aggiungere widget alla schermata home</string>
   <!-- Hide/Show search bars -->
+  <string name="bottom_search_bar_summary">Mostra la barra di ricerca Google al di sotto della dock</string>
   <!--Double tap to lock-->
+  <string name="double_tap_to_lock_title">Doppio tocco per bloccare</string>
+  <string name="double_tap_to_lock_summary">Sulla tua schermata home</string>
+  <string name="double_tap_to_lock_hint">Per consentire l\'uso del doppio tocco per bloccare, devi abilitare l\'accesso amministratore a Ruthless Launcher. Questo è un blocco sicuro, ciò significa che dovrai inserire il tuo PIN al prossimo sblocco, se ne hai impostato uno.</string>
+  <string name="double_tap_to_lock_disable_warning">Disabilitando l\'accesso amministratore, non sarai in grado di usare il doppio tocco per bloccare sulla schermata home.</string>
   <!-- Colors -->
+  <string name="White">Bianco</string>
+  <string name="Black">Nero</string>
+  <string name="Yellow1">Giallo chiaro</string>
+  <string name="Yellow2">Giallo scuro</string>
+  <string name="Green1">Verde chiaro</string>
+  <string name="Green2">Verde scuro</string>
   <!--Animations-->
   <!--AllappsGrid-->
+  <string name="home_action_quick_search">Ricerca veloce</string>
+  <string name="home_action_voice_search">Ricerca vocale</string>
+  <string name="home_action_app_drawer">Apri drawer applicazioni</string>
+  <string name="home_action_app_search">Apri ricerca app</string>
+  <string-array name="home_action_values">
+    <item>niente</item>
+    <item>quicksearch</item>
+    <item>voicesearch</item>
+    <item>appdrawer</item>
+    <item>appsearch</item>
+    <item>overview</item>
+  </string-array>
   <!--search provider-->
+  <string name="search_provider_title">Provider di ricerca</string>
+  <string name="transparent_nav_bar_title">Barra di Navigazione Trasparente</string>
+  <string name="smartspace_launchclock_sum">Alla lunga pressione</string>
+  <string name="system_font_for_smartspace">Utilizza Carattere di Sistema</string>
+  <string name="bage_size">Dimensioni badge</string>
+  <string name="label_font">Carattere etichetta</string>
+  <string name="smartspace_font">Carattere Widget \"At a Glance\"</string>
+  <string name="donate">Link Donazione</string>
+  <string name="donate_sum">Link donazione Paypal(Se vuoi)</string>
+  <string name="icon_pack_updated">Il tuo corrente pacchetto icone è stato aggiornato. Si consiglia di andare nelle impostazioni e riapplicare il pacchetto icone.</string>
+  <string name="icon_pack_apply_warning_title">Attenzione</string>
+  <string name="icon_pack_apply_warning_message">Qualunque icona personalizzata o etichetta icona scomparirà. Sei sicuro di voler continuare?</string>
+  <string name="show_top_shadow_title">Mostra l\'ombra superiore</string>
   <!--Time format-->
+  <string name="other_settings">Altre impostazioni</string>
+  <string name="space_in_dock">Margine Icona nella dock</string>
+  <string name="space_in_dock_sum">Abilita questo se le icone sono troppo vicine alla dockbar </string>
+  <string name="generate_adaptive_background_title">Estrai colore dall\'icona</string>
+  <string name="allow_two_line_labels_title">Consenti etichette su due linee</string>
+  <string name="allow_two_line_labels_summary">Per i nomi lunghi di app o cartelle, potrebbero essere tagliati </string>
+  <string name="faq">Domande più frequenti</string>
+  <string name="hide_apps_title">Nascondi Applicazioni</string>
+  <string name="hide_apps_summary">Dall\'app drawer</string>
 </resources>
