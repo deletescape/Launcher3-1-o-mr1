@@ -312,9 +312,20 @@
   <string name="desktop_show_labels">Etichette Desktop</string>
   <string name="desktop_show_labels_sum">Mostra le etichette delle icone nel desktop</string>
   <string name="drawer_show_labels">Etichette Drawer</string>
+  <string name="drawer_show_labels_sum">Mostra etichette delle icone nel drawer</string>
+  <string name="folder_show_labels">Etichette Cartelle</string>
+  <string name="folder_show_labels_sum">Mostra etichette delle icone nelle cartelle</string>
+  <string name="icon_size">Dimensione icona</string>
   <!--At glance-->
+  <string name="in_smartspace">Nel widget \"At a glance\"</string>
   <!-- Date formats -->
+  <string name="date_format">Formato della data</string>
+  <string name="date_format_1">Martedì, Feb 13</string>
+  <string name="date_format_2">Martedì</string>
+  <string name="date_format_3">Mar, Febbraio 13</string>
   <!--theme-->
+  <string name="theme">Tema</string>
+  <string name="white_theme">Bianco</string>
   <!--Notification dot-->
   <!--<string name="custom_label_color">Custom lable color</string>-->
   <!--Home screen-->
